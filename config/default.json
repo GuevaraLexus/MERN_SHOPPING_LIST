@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://justkidding678:Freakedam123@practice.bvq1rlh.mongodb.net/?retryWrites=true&w=majority&appName=PRACTICE",
+    "jwtSecret": "sl_myJwtSecret"
+}
